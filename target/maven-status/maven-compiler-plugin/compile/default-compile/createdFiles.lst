@@ -1,0 +1,14 @@
+com\filmfreeway\service\NestBoxInsideStrategy.class
+com\filmfreeway\service\NestedBoxService.class
+com\filmfreeway\shared\Constants.class
+com\filmfreeway\NestedBoxServicesApplication.class
+com\filmfreeway\SwaggerConfig.class
+com\filmfreeway\service\NestBoxStrategy.class
+com\filmfreeway\service\NestBoxHorizontalStrategy.class
+com\filmfreeway\service\NestedBoxService$1.class
+com\filmfreeway\model\Box.class
+com\filmfreeway\controller\NestedBoxController.class
+com\filmfreeway\enums\OrientationEnums.class
+com\filmfreeway\model\Box$1.class
+com\filmfreeway\service\NestBoxVerticalStrategy.class
+com\filmfreeway\model\Box$2.class
